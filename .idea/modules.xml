@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/react-ui/react-ui.iml" filepath="$PROJECT_DIR$/react-ui/react-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-api-challenge.iml" filepath="$PROJECT_DIR$/weather-api-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-api-rest.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-api-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-api-rest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-api-rest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weather-api-rest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/weather-api-rest.test.iml" />
+    </modules>
+  </component>
+</project>

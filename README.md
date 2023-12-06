@@ -85,7 +85,7 @@ $ ./gradlew bootRun
 1. Open a new terminal window and navigate to the React-UI folder. This would be something like:
 
 ```bash
-$ cd weather-api-challenge/react-ui-rest
+$ cd weather-api-challenge/react-ui
 ```
 
 2. Next, run the following two NPM commands to build and launch the React-UI:
